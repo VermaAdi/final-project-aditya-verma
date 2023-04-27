@@ -21,9 +21,12 @@ Functionalities
    - Clouds
    - Star
    - Cloud to Ellipse
-6) Import SVG and Export SVG
-7) Zoom Functionality
-8) Keyboard Shortcut Functionalities for Buttons
+6) Keyboard Shortcut Functionalities for Buttons
+
+Advanced Features:
+-------------------------------------------------------------------------------------------------
+7) Import SVG/Load SVG and Export SVG
+8) Zoom Functionality
 
 Screenshot of of the application with some features in action:
 -------------------------------------------------------------------------------------------------
