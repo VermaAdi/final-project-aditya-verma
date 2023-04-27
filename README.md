@@ -1,13 +1,15 @@
 # final-project-aditya-verma
 About My Project
 -------------------------------------------------------------------------------------------------
-My C# project ‘SimplePainterApplication’ realises a simple version of the popular Microsoft Paint
-utilizing the many features of the SVG (Scalable Vector Graphics) rendering library under the
-NuGet package manager. My project is a user-friendly painting application designed to enable
-users to draw various shapes, free-draw, and save their work in different formats. The application
-also enables users to perform actions such as clear, delete, zoom-in, zoom-out, etc. 
+My C# project ‘SimplePainterApplication’ realises a simple version of the popular Microsoft
+Paint utilizing the many features of the SVG (Scalable Vector Graphics) rendering library under
+the NuGet package manager. My project is a user-friendly painting application designed to
+enable users to draw various shapes, free-draw, and save their work in different formats. The
+application also enables users to perform actions such as clear, delete, zoom-in, zoom-out, etc.
 
-The comprehensive final project report is in the root folder and it is called "CS321 Comprehensive Final Project Report.docx".
+The comprehensive final project report is in the root folder and it is called "CS321 Comprehensive 
+Final Project Report.docx". It discusses the application’s features and its robust event-handling in detail,
+highlighting any known bugs in the project along with the struggles during debugging processes.
 
 Functionalities
 -------------------------------------------------------------------------------------------------
