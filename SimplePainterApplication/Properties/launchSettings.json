@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimplePainterApplication": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\harsh\\source\\repos\\SimplePainterApplication\\SimplePainterApplication"
+    }
+  }
+}
