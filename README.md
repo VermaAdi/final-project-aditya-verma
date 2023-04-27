@@ -7,7 +7,7 @@ NuGet package manager. My project is a user-friendly painting application design
 users to draw various shapes, free-draw, and save their work in different formats. The application
 also enables users to perform actions such as clear, delete, zoom-in, zoom-out, etc. 
 
-The comprehensive final project report is in the root folder and it is called "CS321 Comprehensive Final Project Report".
+The comprehensive final project report is in the root folder and it is called "CS321 Comprehensive Final Project Report.docx".
 
 Functionalities
 -------------------------------------------------------------------------------------------------
