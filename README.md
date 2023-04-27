@@ -18,7 +18,7 @@ Functionalities
 3) Save Options
 4) Select Capability using Point-Containment Check
 5) Special Shape Drawing Implementation: 
-   - Clouds
+   - Cloud
    - Star
    - Cloud to Ellipse
 6) Keyboard Shortcut Functionalities for Buttons
